@@ -65,7 +65,7 @@ $ export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:/home/robond/workspace/udacity
 #### Step 5 Run the Gazebo World file  
 ```sh
 $ cd /home/robond/workspace/udacity/GazeboWorld/world
-$ gazebo newworld
+$ gazebo gazeboworld
 ```
 
 ### Output
